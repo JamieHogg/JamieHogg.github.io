@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Networking: A brief discussion and some thoughts"
+title:  "Snake Game: Update Blog 1"
 date:   2017-07-18 16:54:46
 author: James Huxtable
 categories: 
-- Blog
-- Networking
-- Development
+- Snake Game
 img: post02.jpg
 thumb: quake_thumb.jpg
 ---
