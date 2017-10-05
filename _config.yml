@@ -64,14 +64,14 @@ email: Jamie2.Hogg@live.uwe.ac.uk
 # Members information. Shown on About page.
 members:
   - name: Jamie Hogg
-    position: Da Man!
+    position: Pretty cool guy.
     text: I am a keen and passionate games developer, whose love of programming extends to mentoring others to allow them to develop games for themselves.
     img: profile_1.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:james2.huxtable@uwe.ac.uk
+        url: mailto:Jamie2.Hogg@live.uwe.ac.uk
       - title: twitter
         url: 
  
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Those who can do and those who can't teach games design."
+about: "Save the Cheerleader, Save the World."
