@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Snake Game: Blog Entry 01"
-date:   2017-10-05 16:54:46
+date:   2017-10-05 11:55:00
 author: Jamie Hogg
 categories: 
 - Snake Game Blog
