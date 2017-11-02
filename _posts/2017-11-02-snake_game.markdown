@@ -23,3 +23,7 @@ void Player::wait(float time)
 	while (clock() < endwait) {}
 }
  ```
+This function pretty much pauses the game for the chosen time as far as I'm aware. The only real change that I did to the code was that I changed 'time' to float as orignially it was an int which didn't work well.
+
+<b>Tail</b><BR>
+The next big thing I change/added to the game was the addition of the tail depending on the player score.
