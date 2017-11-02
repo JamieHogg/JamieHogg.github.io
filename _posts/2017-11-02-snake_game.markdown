@@ -26,4 +26,6 @@ void Player::wait(float time)
 This function pretty much pauses the game for the chosen time as far as I'm aware. The only real change that I did to the code was that I changed 'time' to float as orignially it was an int which didn't work well.
 
 <b>Tail</b><BR>
-The next big thing I change/added to the game was the addition of the tail depending on the player score.
+The next big thing I change/added to the game was the addition of the tail depending on the player score. I haven't managed to get the score working at this current moment in time so am just using a test variable for the score number. For the tail though, I thought it made the most sense to turn the player sprite into an array as making a completely new seperate sprite for each tail part would be illogical and take a long time.
+So to actually make all the rendering and setting of each sprite part I made 'for' loops around the different parts as the size of the score.
+Then I just had to set the positions of each of the tail parts which honestly was difficult for me to figure out. Luckily I found a method of actually setting the values online which I set in arrays of 'tail_x' and 'tail_y'.
