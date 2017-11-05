@@ -6,7 +6,7 @@ author: Jamie Hogg
 categories: 
 - Snake Game Blog
 img: post04.jpg
-thumb: quake_thumb.jpg
+thumb: snake_thumb.jpg
 ---
 Today we got the framework for the second game for this module of the course.
 It has been given a deadline of November the 8th which is just over a month a way meaning we have a short time to make it.
