@@ -16,28 +16,28 @@ So firstly, I managed to get a square sprite to move around the screen depending
 
 ```C++
 switch (key_dir)
+{
+	case ASGE::KEYS::KEY_LEFT:
 	{
-		case ASGE::KEYS::KEY_LEFT:
-		{
-			x--;
-			break;
-		}
-		case ASGE::KEYS::KEY_RIGHT:
-		{
-			x++;
-			break;
-		}
-		case ASGE::KEYS::KEY_UP:
-		{
-			y--;
-			break;
-		}		
-		case ASGE::KEYS::KEY_DOWN:
-		{
-			y++;
-			break;
-		}
+		x--;
+		break;
 	}
+	case ASGE::KEYS::KEY_RIGHT:
+	{
+		x++;
+		break;
+	}
+		case ASGE::KEYS::KEY_UP:
+	{
+		y--;
+		break;
+	}		
+	case ASGE::KEYS::KEY_DOWN:
+	{
+		y++;
+		break;
+	}
+}
 ```
 
 This is my simple loop currently which checks for a button being pressed, then checks which one and moves a square sprite around the screen by 1 each frame.
