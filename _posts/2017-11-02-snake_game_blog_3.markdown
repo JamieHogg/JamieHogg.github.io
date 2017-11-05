@@ -6,7 +6,7 @@ author: Jamie Hogg
 categories: 
 - Snake Game Blog
 img: post04.jpg
-thumb: 
+thumb: snake_thumb.jpg
 ---
 Since the last blog post, where I had only just finished/worked out the movement for the snake sprite, I have achieved a lot which also isn't much at all. 
 
