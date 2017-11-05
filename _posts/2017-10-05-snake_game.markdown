@@ -5,7 +5,7 @@ date:   2017-10-05 11:55:00
 author: Jamie Hogg
 categories: 
 - Snake Game Blog
-img: post02.jpg
+img: post04.jpg
 thumb: quake_thumb.jpg
 ---
 Today we got the framework for the second game for this module of the course.
