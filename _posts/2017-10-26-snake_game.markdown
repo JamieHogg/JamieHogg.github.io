@@ -5,7 +5,7 @@ date:   2017-10-26 11:00:00
 author: Jamie Hogg
 categories: 
 - Snake Game Blog
-img: post02.jpg
+img: post04.jpg
 thumb: quake_thumb.jpg
 ---
 Since the last blog post, where I had only just finished/worked out the movement for the snake sprite, I have achieved a lot which also isn't much at all. 
