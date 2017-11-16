@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Snake Game: Blog Entry 05"
-date:   2017-11-16 10:35:00
+date:   2017-11-16 10:30:00
 author: Jamie Hogg
 categories: 
 - Snake Game Blog
@@ -20,3 +20,6 @@ The other big thing that slightly ruined my assignment was my code stucture. It 
 
 <b>Commenting</b><BR>
 A small thing that I did badly was some of the commenting. In a panic to try and follow the coding style, I commented as much as I could within the code. This wasn't the best as I had commented in some locations where commenting was just illogical as the code was obvious as to what it did.
+
+<b>Conclusion</b><BR>
+Overall, I'm proud of what I have achieved in the time that I had, I probably should've started ealrier and spent more time on it. I did have a lot of problems but that also means I have a lot to improve on and show that I have improved for next time.
