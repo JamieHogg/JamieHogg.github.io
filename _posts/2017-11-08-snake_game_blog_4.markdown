@@ -16,5 +16,5 @@ I also added a player health into the game. This I felt added more challenge to 
 This was honestly a last minute addition so wasn't bug free but worked mostly as hoped.
 
 <b>What Next?</b><BR>
-So this is some of the more difficult parts of a basic version of snake complete, all I really need to do finish the score, make it possible to eat the food and game over when hit the borders. This all will be what I will be working towards next.
+Now I just have to wait until friday then see what James thinks of my snake game and hope that it is good enough to pass.
 
