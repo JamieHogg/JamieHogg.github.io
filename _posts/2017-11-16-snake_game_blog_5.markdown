@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Snake Game: Blog Entry 05"
+title:  "Snake Game: Blog Entry 05 (Final)"
 date:   2017-11-16 10:30:00
 author: Jamie Hogg
 categories: 
