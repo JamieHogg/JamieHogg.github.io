@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Birdman Game: Blog Entry 01"
-date:   2018-30-01 10:30:00
+date:   2018-01-30 10:30:00
 author: Jamie Hogg
 categories: 
 - Birdman Blog
@@ -18,4 +18,4 @@ The point and click puzzle idea is the one we chose and fleshed out after much d
 - Not too simple to add some challenge.
 - A timer to give more insentive to do it fast and give a sense of urgency.
 
-The elavated pitches were met with decent response apart
+The elavated pitches were met with decent response apart from the isometric viewpoint idea for the game which was met with negative responses. The points made were that it would just be really difficult to do, plus 
