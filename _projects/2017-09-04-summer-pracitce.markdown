@@ -19,10 +19,11 @@ client:
 website: 
 ---
 #### Summer Modeling and Unreal Practice
-During the Summer between the first and second year of University, I decided to practice some modeling using Maya, the same software used to make the 3D Planet Orrey made the previous year. In the end I decided to try and recreate the school from the anime show 'Love Live! School Idol Project' due to the nice designs of the building and actually having images to go off of.
+During the Summer between the first and second year of University, I decided to practice some modeling using Maya, the same software used to make the 3D Planet Orrey made the previous year. In the end I decided to try and recreate Otonokizaka High School from the anime show 'Love Live! School Idol Project' due to the nice designs of the building and actually having images to go off of.
 
 All the objects were made in the software 'Autodesk Maya' before being exported and imported into Unreal. Originally it was going to be all made in Maya before being imported over, however that became to laggy due to all the objects so everything was instead imported in parts.
 
 The progress so is only the front of the building due to lack of images of reference to the sides and it taking around 2 weeks just to do the front due to re-doing objects that I wasn't satisfied with.
 
-![](https://vignette.wikia.nocookie.net/love-live/images/4/46/Otonokizaka_High_School.jpg/revision/latest?cb=20160420131607 "Logo Title Text 1")
+Images of reference from:
+http://love-live.wikia.com/wiki/Otonokizaka_High_School
