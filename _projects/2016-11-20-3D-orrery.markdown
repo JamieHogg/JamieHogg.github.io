@@ -5,8 +5,8 @@ date:   2016-11-20 12:00:00
 author: Jamie Hogg
 categories:
 - project
-img: orrery_render_04.jpg
-thumb: thumb02.jpg
+img: orrery_render_image.jpg
+thumb: 
 carousel:
 - orrery_render_01.jpg
 - orrery_render_02.jpg
