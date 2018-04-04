@@ -5,7 +5,7 @@ date:   2017-09-04 12:00:00
 author: Jamie Hogg
 categories:
 - project
-img: unreal_school_06.png
+img: unreal_school_image.png
 thumb: 
 carousel:
 - unreal_school_01.png
