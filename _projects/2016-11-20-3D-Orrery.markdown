@@ -8,10 +8,10 @@ categories:
 img: portfolio_09.jpg
 thumb: thumb02.jpg
 carousel:
-- Orrery_Render_01.jpg
-- Orrery_Render_02.jpg
-- Orrery_Render_03.jpg
-- Orrery_Render_04.jpg
+- orrery_render_01.jpg
+- orrery_render_02.jpg
+- orrery_render_03.jpg
+- orrery_render_04.jpg
 tagged: 3D, Maya
 client: 
 website: 
