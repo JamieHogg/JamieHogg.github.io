@@ -25,4 +25,4 @@ All the objects were made in the software 'Autodesk Maya' before being exported 
 
 The progress so is only the front of the building due to lack of images of reference to the sides and it taking around 2 weeks just to do the front due to re-doing objects that I wasn't satisfied with.
 
-![](https://vignette.wikia.nocookie.net/love-live/images/4/46/Otonokizaka_High_School.jpg/revision/latest?cb=20160420131607 "Logo Title Text 1")
+[](https://vignette.wikia.nocookie.net/love-live/images/4/46/Otonokizaka_High_School.jpg/revision/latest?cb=20160420131607 "Logo Title Text 1")
