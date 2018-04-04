@@ -5,7 +5,7 @@ date:   2017-09-04 12:00:00
 author: Jamie Hogg
 categories:
 - project
-img: portfolio_08.jpg
+img: unreal_school_06.png
 thumb: thumb02.jpg
 carousel:
 - unreal_school_01.png
@@ -18,10 +18,7 @@ tagged: 3D, Unreal 4 Engine, Modeling
 client: 
 website: 
 ---
-####Summer Modeling and Unreal Practice
+#### Summer Modeling and Unreal Practice
 During the Summer between the first and second year of University, I decided to practice some modeling using Maya, the same software used to make the 3D Planet Orrey made the previous year. In the end I decided to try and recreate the school from the anime show 'Love Live! School Idol Project' due to the nice designs of the building and actually having images to go off of.
 
 [logo]: https://vignette.wikia.nocookie.net/love-live/images/4/46/Otonokizaka_High_School.jpg/revision/latest?cb=20160420131607 "Logo Title Text 2"
-
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
