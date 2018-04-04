@@ -15,8 +15,6 @@ carousel:
 - unreal_school_05.png
 - unreal_school_06.png
 tagged: 3D, Unreal 4 Engine, Modeling
-client: 
-website: 
 ---
 #### Summer Modeling and Unreal Practice
 During the Summer between the first and second year of University, I decided to practice some modeling using Maya, the same software used to make the 3D Planet Orrey made the previous year. In the end I decided to try and recreate Otonokizaka High School from the anime show 'Love Live! School Idol Project' due to the nice designs of the building and actually having images to go off of.
