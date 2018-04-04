@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Orrery 3D Model in Maya"
-date:   2014-04-25 16:54:46
+date:   2016-11-20 12:00:00
 author: Jamie Hogg
 categories:
 - project
