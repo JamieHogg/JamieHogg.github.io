@@ -19,7 +19,7 @@ client:
 website: 
 ---
 ####Summer Modeling and Unreal Practice
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+During the Summer between the first and second year of University, I decided to practice some modeling using Maya, the same software used to make the 3D Planet Orrey made the previous year. In the end I decided to try and recreate the school from the anime show 'Love Live! School Idol Project' due to the nice designs of the building and actually having images to go off of.
 
 [logo]: https://vignette.wikia.nocookie.net/love-live/images/4/46/Otonokizaka_High_School.jpg/revision/latest?cb=20160420131607 "Logo Title Text 2"
 
