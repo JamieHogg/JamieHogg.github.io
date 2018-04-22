@@ -31,3 +31,10 @@ The networking aspect will be the most challenging part which will have to take 
 - When a pawn takes damage
 - If all the players are connected
 - etc
+
+Other Team member's blogs:
+- Alex:
+  https://stroudie2.github.io/category/#Networking
+- Ben:
+
+- Thomas:
