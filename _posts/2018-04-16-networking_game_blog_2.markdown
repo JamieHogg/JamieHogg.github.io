@@ -10,11 +10,11 @@ thumb:
 ---
 Much progress has been made to the actual game itself.
 
-<B>Board</B>
+<B>Board</B><BR>
 The board now renders in scene once the game starts. The player is able to select their own character which updates the surrounding cells
 making them change colour if they are able to move to that location or not. This was able to be done as the board was made by rendering the cells seperately as aposed to instead rendering the board as a whole as its own sprite.
 
-<B>Classes/Characters</B>
+<B>Classes/Characters</B><BR>
 As before only 3 out of the total classes had been decided, the last 2 had now been decided. The last 2 classes are:
   - Lancer
   - Assassin
