@@ -6,7 +6,7 @@ author: Jamie Hogg
 categories: 
 - Networking Game Blog
 img: network_post.png
-thumb: 
+thumb: network_thumb.jpg
 ---
 
 For the final group assignment, we were tasked with making a turn-based game which works over a network. 
