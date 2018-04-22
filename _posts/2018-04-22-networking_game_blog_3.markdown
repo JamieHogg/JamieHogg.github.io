@@ -26,9 +26,11 @@ Damage also is effected via a strong against class system.
 
 This adds incentive to use specific classes against others and adds more to the game.
 
-  
-<B>Things Left to do:</B>
+<B>In Game Chat</B>
+Currently, in the lobby, a chatbox is available which allows the user to type and send messages into the lobby chat. Currently though it doesn't send over the network so is only present in the play who sent it's lobby chat.
 
+<B>Things Left to do:</B>
+- Fix the bug where the pawns sometimes have the wrong team's texture
 
 <B>Other Team member's blogs:</B>
 - Alex:
