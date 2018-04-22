@@ -18,6 +18,10 @@ making them change colour if they are able to move to that location or not. This
 As before only 3 out of the total classes had been decided, the last 2 had now been decided. The last 2 classes are:
   - Lancer
   - Assassin
+
+![alt text](https://github.com/JamieHogg/JamieHogg.github.io/tree/master/assets/img/all_sprites.png "Logo Title Text 1")
+
+JamieHogg.github.io/assets/img/
   
 The idea for the lancer was for a class similar to the warrior but with more range but lower attack. Then for the assassin to have really high range to be able hit enemies far away by being really agile but to do short amount of damage.
 
