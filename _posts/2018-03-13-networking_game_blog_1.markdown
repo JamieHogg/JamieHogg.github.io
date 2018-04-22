@@ -15,7 +15,7 @@ This basically meaning having to send packets of data containing the current gam
 After discussion, the game concept came up was a fantasy type game similar to 'Heroes of Might and Magic' in which there are classes such as 
 Warrior, Archer, etc on board which can attack enemies and move to other places on the board.
 
-The current idea is to have 5 classes:
+<B>The current idea is to have 5 classes:</B>
 - Warrior
 - Mage
 - Archer
