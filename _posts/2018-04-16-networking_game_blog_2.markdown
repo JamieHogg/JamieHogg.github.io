@@ -19,7 +19,7 @@ As before only 3 out of the total classes had been decided, the last 2 had now b
   - Lancer
   - Assassin
 
-![](img/all_sprites.png)
+![](https://github.com/JamieHogg/JamieHogg.github.io/blob/master/assets/img/all_sprites.png)
 
 
 JamieHogg.github.io/assets/img/
