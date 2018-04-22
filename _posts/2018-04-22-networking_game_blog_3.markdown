@@ -32,6 +32,9 @@ Currently, in the lobby, a chatbox is available which allows the user to type an
 
 <B>Things Left to do:</B>
 - Fix the bug where the pawns sometimes have the wrong team's texture
+- Remove pawns when their health points reach zero
+- Display Win/Lose screen when the game is over
+- Be able to go back to the lobby without crashing
 
 <B>Other Team member's blogs:</B>
 - Alex:
