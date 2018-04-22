@@ -27,14 +27,26 @@ Damage also is effected via a strong against class system.
 
 This adds incentive to use specific classes against others and adds more to the game.
 
+<B>Stats</B><BR>
+The statistics for each pawn once clicked on is displayed on the screen. 
+
+<B>It displays the:</B>
+  - Class Type
+  - Health
+  - General Damage
+  - Whether it is movable or not
+ 
+This even updates as the player is damaged plus changes depending on which pawn the player has selected.
+
 <B>In Game Chat</B><BR>
 Currently, in the lobby, a chatbox is available which allows the user to type and send messages into the lobby chat. Currently though it doesn't send over the network so is only present in the play who sent it's lobby chat.
+  
+<B>Extras</B><BR>
+A few non-important thing added was a main menu which is seen on the launch of the game and displays the game's name, 'Crusade'.
+Also the board in the game scene has a base design now too to make it less plain.
 
 <B>Things Left to do:</B>
 - Fix the bug where the pawns sometimes have the wrong team's texture
-- Remove pawns when their health points reach zero
-- Display Win/Lose screen when the game is over
-- Be able to go back to the lobby without crashing
 
 <B>Other Team member's blogs:</B>
 - Alex:
