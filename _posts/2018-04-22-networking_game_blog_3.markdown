@@ -26,7 +26,7 @@ Damage also is effected via a strong against class system.
 
 This adds incentive to use specific classes against others and adds more to the game.
 
-<B>In Game Chat</B>
+<B>In Game Chat</B><BR>
 Currently, in the lobby, a chatbox is available which allows the user to type and send messages into the lobby chat. Currently though it doesn't send over the network so is only present in the play who sent it's lobby chat.
 
 <B>Things Left to do:</B>
