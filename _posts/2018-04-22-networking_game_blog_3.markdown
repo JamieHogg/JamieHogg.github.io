@@ -17,6 +17,7 @@ All the attack types work, both melee and ranged work perfectly and actually dam
 With the range attacks, the projectiles actually go from the selected pawn to the selected enemy pawn before damaging them.
 The arrows also go in the right angle of the enemy they are going towards.
 Damage also is effected via a strong against class system.
+
 <B>It is as follows:</B>
   - Warrior -> Assassin
   - Archer -> Lancer
