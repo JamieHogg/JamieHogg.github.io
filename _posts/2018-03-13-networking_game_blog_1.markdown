@@ -34,7 +34,8 @@ The networking aspect will be the most challenging part which will have to take 
 
 Other Team member's blogs:
 - Alex:
-  https://stroudie2.github.io/category/#Networking
+  https://stroudie2.github.io/
 - Ben:
-
+  https://www.youtube.com/watch?v=qZ86uVLBRv8
 - Thomas:
+  https://slaeven.github.io/
