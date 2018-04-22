@@ -19,7 +19,7 @@ As before only 3 out of the total classes had been decided, the last 2 had now b
   - Lancer
   - Assassin
 
-![alt text](https://github.com/JamieHogg/JamieHogg.github.io/tree/master/assets/img/all_sprites.png "Logo Title Text 1")
+[logo]: https://github.com/JamieHogg/JamieHogg.github.io/tree/master/assets/img/all_sprites.png "Logo Title Text 1"
 
 JamieHogg.github.io/assets/img/
   
