@@ -6,7 +6,7 @@ author: Jamie Hogg
 categories: 
 - Networking Game Blog
 img: network_post.png
-thumb: 
+thumb: network_thumb.jpg
 ---
 Much progress has been made to the actual game itself.
 
