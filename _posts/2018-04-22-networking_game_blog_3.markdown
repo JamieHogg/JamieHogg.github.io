@@ -10,7 +10,7 @@ thumb: network_thumb.jpg
 ---
 A lot has progressed since last time.
 
-<B>Classes/Characters</B>
+<B>Classes/Characters</B><BR>
 There is now a class select in the lobby allowing the player to select their desired pawns for the game.
 It also includes a lock mode to lock the ability to select pawns which is needed to start the game, similar to a 'ready up'.
 All the attack types work, both melee and ranged work perfectly and actually damage the chosen target.
