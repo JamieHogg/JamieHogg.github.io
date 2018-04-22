@@ -5,7 +5,7 @@ date:   2018-04-16 12:00:00
 author: Jamie Hogg
 categories: 
 - Networking Game Blog
-img: 
+img: network_post.png
 thumb: 
 ---
 Much progress has been made to the actual game itself.
