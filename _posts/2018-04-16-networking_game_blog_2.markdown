@@ -19,7 +19,7 @@ As before only 3 out of the total classes had been decided, the last 2 had now b
   - Lancer
   - Assassin
 
-!https://github.com/JamieHogg/JamieHogg.github.io/blob/master/assets/img/all_sprites.png
+![](blob/master/assets/img/all_sprites.png)
   
 The idea for the lancer was for a class similar to the warrior but with more range but lower attack. Then for the assassin to have really high range to be able hit enemies far away by being really agile but to do short amount of damage.
 
