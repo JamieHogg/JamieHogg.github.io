@@ -24,7 +24,7 @@ Then the last 2 haven't been decided yet.
 It will be a 2-player game in which the players must try to defeat the other player using 5 pawns. These pawns are optional as the player will at start get to choose the classes of each. Example one player could choose all Mages and the other could choose 1 of each class. The players won’t be able to see each other’s class decisions until the game starts so have to also hope they choose classes which 
 are effective against the enemy's since we plan to also have class-based damage bonuses against specific classes.
 
-The networking aspect will be the most challenging part which will have to take in the data to server from each player for:
+<B>The networking aspect will be the most challenging part which will have to take in the data to server from each player for:</B>
 - Which player's turn it is
 - when a pawn moves to a new position
 - When a pawn attacks
@@ -32,7 +32,7 @@ The networking aspect will be the most challenging part which will have to take 
 - If all the players are connected
 - etc
 
-Other Team member's blogs:
+<B>Other Team member's blogs:</B>
 - Alex:
   https://stroudie2.github.io/
 - Ben:
