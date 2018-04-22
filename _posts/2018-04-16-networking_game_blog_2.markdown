@@ -22,7 +22,7 @@ The idea for the lancer was for a class similar to the warrior but with more ran
 
 Movement also work for the pawns. So when a pawn is selected and the movable area is shown. If the player clicks on a movable area cell, the selected pawn will move to that location. It also works so the player can only move pawns to a movable cell, plus the movable area updates after movement.
 
-<B>Networking</B>
+<B>Networking</B><BR>
 Not much has progressed with the networking of the game due to the difficulty of the task. Some simple packets have been managed to be
 sent but they don't effect the game yet.
   
