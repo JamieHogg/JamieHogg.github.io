@@ -23,6 +23,7 @@ Damage also is effected via a strong against class system.
   - Mage -> Archer
   - Lancer -> Warrior
   - Assassin -> Mage
+
 This adds incentive to use specific classes against others and adds more to the game.
 
   
