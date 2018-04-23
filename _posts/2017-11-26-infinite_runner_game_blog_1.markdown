@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Infinite Runner Game: Blog Entry 01"
-date:   2017-09-26 12:00:00
+date:   2017-11-26 12:00:00
 author: Jamie Hogg
 categories: 
 - Infinite Runner Game Blog
