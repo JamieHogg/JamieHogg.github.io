@@ -21,11 +21,11 @@ The very last assignment for the Low-Level Programming module for my second year
   
 <B>Gameplay</B><BR>
 The player is able to firstly choose a team of 5 soldiers of which ever class they desire, the classes include:
-- Warrior
-- Archer
-- Mage
-- Lancer
-- Assassin
+- <B>Warrior</B>
+- <B>Archer</B>
+- <B>Mage</B>
+- <B>Lancer</B>
+- <B>Assassin</B>
 
 However each class is also weak against another class. Such as:
 - <B>Warrior</B> is strong against <B>Assassin</B>
