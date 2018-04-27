@@ -5,7 +5,7 @@ date:   2018-03-10 12:00:00
 author: Jamie Hogg
 categories:
 - project
-img: portfolio_05.jpg
+img: birdman_image.png
 thumb: thumb02.jpg
 carousel:
 - birdman_01.png
