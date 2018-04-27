@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Snake Game"
 date:   2017-11-20 12:00:00
 author: Jamie Hogg
 categories:
