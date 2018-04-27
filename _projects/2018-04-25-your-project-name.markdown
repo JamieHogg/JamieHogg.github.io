@@ -8,9 +8,10 @@ categories:
 img: crusade_image.png
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- crusade_01.png
+- crusade_02.png
+- crusade_03.png
+- crusade_04.png
 tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
