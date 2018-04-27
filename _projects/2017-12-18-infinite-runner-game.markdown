@@ -5,12 +5,12 @@ date:   2017-12-18 12:00:00
 author: Jamie Hogg
 categories:
 - project
-img: portfolio_06.jpg
+img: runner_game_game.png
 thumb: thumb02.jpg
 carousel:
-- 
-- 
-- 
+- runner_game_01.png
+- runner_game_02.png
+- runner_game_03.png
 tagged: ASGE, Game, Infinite, Runner
 client: 
 website: 
