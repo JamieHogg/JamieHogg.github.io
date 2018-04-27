@@ -1,0 +1,27 @@
+---
+layout: project
+title:  "Crusade"
+date:   2018-04-25 12:00:00
+author: Jamie Hogg
+categories:
+- project
+img: crusade_image.png
+thumb: thumb02.jpg
+carousel:
+- crusade_01.png
+- crusade_02.png
+- crusade_03.png
+- crusade_04.png
+tagged: ASGE, Game, Network
+client: Wonder Corp.
+website: http://blacktie.co
+---
+<B>Crusade</B><BR>
+The very last assignment for the Low-Level Programming module for my second year at University was also a group task. We were set the task of making a turn based game which was meant to be played by 2-players over a network. It was either meant to be similar to 'Heroes of Might and Magic' from 1995, or 'UFO Enemy Unknown' from 1994. In the end we went for 'Heroes of Might and Magic'. The big picture for the game is that you'd be able to explore a world and scout warriors along the way to fight for you and then the player can use them to fight in battles against other players. However we only got the fighting part of it done. The sprites were done by 
+  
+<B>Gameplay</B><BR>
+The player is able to firstly choose a team of 5 soldiers of which ever class they desire, the classes include:
+- Warrior
+- Archer
+- Mage
+- 
