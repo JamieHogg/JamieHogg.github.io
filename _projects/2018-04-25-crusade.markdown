@@ -24,4 +24,12 @@ The player is able to firstly choose a team of 5 soldiers of which ever class th
 - Warrior
 - Archer
 - Mage
-- 
+- Lancer
+- Assassin
+
+However each class is also weak against another class. Such as:
+- <B>Warrior</B> is strong against <B>Assassin</B>
+- <B>Archer</B> is strong against <B>Lancer</B>
+- <B>Mage</B> is strong against <B>Archer</B>
+- <B>Lancer</B> is strong against <B>Warrior</B>
+- <B>Assassin</B> is strong against <B>Mage</B>
