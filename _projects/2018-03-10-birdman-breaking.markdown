@@ -1,16 +1,20 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
-date:   2014-04-25 16:54:46
-author: Marcel Newman
+title:  "Birdman Breaking"
+date:   2018-03-10 12:00:00
+author: Jamie Hogg
 categories:
 - project
 img: portfolio_05.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- birdman_01.png
+- birdman_02.png
+- birdman_03.png
+- birdman_04.png
+- birdman_05.png
+- birdman_06.png
+- birdman_07.png
 tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
