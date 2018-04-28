@@ -18,3 +18,17 @@ the position of where the sprite is. So on start-up, this text file is read and 
 edit positions easier as anyone editing the code doesn't have to look through the code but instead just for the text 
 file containing the data instead.
 
+Scene changes were also added. Due to how we wanted to make the game, having one scene wouldn't work and so we made it 
+so you could click on arrows to the sides of the window to switch scenes. It was done by simply having an Enum containing scenes then only rendering the sprites for the current scene that is playing by setting the current scene on each arrow button click.
+
+```C++
+enum Scenes
+{
+	ALLEYWAY,
+	ALLEYWAY2,
+	SMLSTREET,
+	TSQUARE,
+	DINER,
+	THEATER
+};
+```
