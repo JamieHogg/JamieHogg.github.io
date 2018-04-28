@@ -14,8 +14,6 @@ language 'C++' prgramming language, however using 'ASGE' (Also known as Awesome 
 is provided to us. Other than make a basic game of 'Snake', it is also meant to incorpriate some other 
 feature which makes it unique.
 
-<B>Movement</B><BR>
-
 <B>Unique Feature Ideas</B><BR>
 - Make it into a game similar to 'Tron' and make it multiplayer
 - Add a speed and slowdown boost pick-up for added difficulty and make the game easier
