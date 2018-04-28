@@ -32,3 +32,7 @@ enum Scenes
 	THEATER
 };
 ```
+Some sprites were also added which were 90% done by myself in an 8-bit style due to it being easier to design in.
+
+<B>What I had Wished we'd Implemented</B><BR>
+The game worked very well but did suffer from being a bit short which was pointed out. 
