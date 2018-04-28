@@ -5,7 +5,7 @@ date:   2018-01-30 10:30:00
 author: Jamie Hogg
 categories: 
 - Birdman Blog
-img: 
+img: birdman_post.png
 thumb: 
 ---
 
