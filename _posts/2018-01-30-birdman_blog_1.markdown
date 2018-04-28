@@ -6,7 +6,7 @@ author: Jamie Hogg
 categories: 
 - Birdman Blog
 img: birdman_post.png
-thumb: 
+thumb: birdman_thumb.jpg
 ---
 
 For this current game assignment, the task is to work in groups to make a game based on the Oscar winning movie, 'Birdman' using 'ASGE'.
