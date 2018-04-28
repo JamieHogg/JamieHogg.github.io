@@ -16,8 +16,5 @@ tagged: 3D, Maya
 client: 
 website: 
 ---
-####Orrery 3D Model in Maya Assignment
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+The photos above show the renders of the planet orrery made as part of an assignmnet for my first year of University in 'Principles of 3D Environments'. The software used to make this was 'Autodesk Maya' which is a modeling software which can be used for animating aswell. 
+Each gear for the orrery is its own object and works as intended. For example rotating the handle rotates each gear appropriately which cause the planets to orbit around perfectly. Each planet rotates at different speeds aswell due to the way the cogs work.
