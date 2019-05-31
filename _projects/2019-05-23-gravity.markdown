@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Gravity System Unity"
-date:   2018-04-25 12:00:00
+date:   2019-05-23 12:00:00
 author: Jamie Hogg
 categories:
 - project
@@ -11,8 +11,6 @@ carousel:
 - grav_system_01.png
 - grav_system_02.png
 tagged: Unity, Physics
-client: 
-website: 
 ---
 <B>Personal Creative Project</B><BR>
 In the third year Games Tech course, we were tasked with choosing a personal project to choose a topic of interest outside or beyond the modules taught to us. After recently playing both 'Gravity Rush' & 'Gravity Rush 2', I was captivated by the abnormal use of Gravity. So the topic of interest to undertake was gravity within the game engine Uniity.
