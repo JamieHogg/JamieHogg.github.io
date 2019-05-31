@@ -1,0 +1,36 @@
+---
+layout: project
+title:  "Gravity System Unity"
+date:   2018-04-25 12:00:00
+author: Jamie Hogg
+categories:
+- project
+img: crusade_image.png
+thumb: thumb02.jpg
+carousel:
+tagged: Unity, Physics
+client: 
+website: 
+---
+<B>Crusade</B><BR>
+The very last assignment for the Low-Level Programming module for my second year at University was also a group task. We were set the task of making a turn-based game which was meant to be played by 2-players over a network. It was either meant to be similar to 'Heroes of Might and Magic' from 1995, or 'UFO Enemy Unknown' from 1994. In the end we went for 'Heroes of Might and Magic'. The big picture for the game is that you'd be able to explore a world and scout warriors along the way to fight for you and then the player can use them to fight in battles against other players. However, we only got the fighting part of it done. The sprites were done by 
+
+<B>Stats</B><BR>
+The player can firstly choose a team of 5 soldiers of which ever class they desire, the classes include:
+- <B>Warrior</B>
+- <B>Archer</B>
+- <B>Mage</B>
+- <B>Lancer</B>
+- <B>Assassin</B>
+
+However, each class is also weak against another class. Such as:
+- <B>Warrior</B> is strong against <B>Assassin</B> but weak against <B>Lancer</B>
+- <B>Archer</B> is strong against <B>Lancer</B> but weak against <B>Mage</B>
+- <B>Mage</B> is strong against <B>Archer</B> but weak against <B>Assassin</B>
+- <B>Lancer</B> is strong against <B>Warrior</B> but weak against <B>Archer</B>
+- <B>Assassin</B> is strong against <B>Mage</B> but weak against <B>Warrior</B>
+
+<B>Gameplay</B><BR>
+Once both players have connected to the server and chosen their character classes, they can play the game.
+The players then take it in turn to move all their pawns across the board or attack the enemy team. Each class has a different range of attack/move so ranged can be good but to hit enemies but die easily. An attack also doesn't move the character, they can only move after an attack once their turn comes back round again. The last team standing is the victor.
+
