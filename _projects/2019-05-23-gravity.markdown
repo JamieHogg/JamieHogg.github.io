@@ -15,17 +15,14 @@ website:
 <B>Personal Creative Project</B><BR>
 In the third year Games Tech course, we were tasked with choosing a personal project to choose a topic of interest outside or beyond the modules taught to us. After recently playing both 'Gravity Rush' & 'Gravity Rush 2', I was captivated by the abnormal use of Gravity. So the topic of interest to undertake was gravity within the game engine Uniity.
   
+It was decided that the best ways of showing off Gravity within the engine would be to create a solar system simulation. This would show how gravity works and also test the possibilities when using real life theories inside the engine.
 
+Theories which were used:
+- Newton's Law of Universal Gravity
+- Kepler's Law of Planetary Motion
+- Conic Sections
+- Hook's Law
+- Hill Sphere
 
-
-However, each class is also weak against another class. Such as:
-- <B>Warrior</B> is strong against <B>Assassin</B> but weak against <B>Lancer</B>
-- <B>Archer</B> is strong against <B>Lancer</B> but weak against <B>Mage</B>
-- <B>Mage</B> is strong against <B>Archer</B> but weak against <B>Assassin</B>
-- <B>Lancer</B> is strong against <B>Warrior</B> but weak against <B>Archer</B>
-- <B>Assassin</B> is strong against <B>Mage</B> but weak against <B>Warrior</B>
-
-<B>Gameplay</B><BR>
-Once both players have connected to the server and chosen their character classes, they can play the game.
-The players then take it in turn to move all their pawns across the board or attack the enemy team. Each class has a different range of attack/move so ranged can be good but to hit enemies but die easily. An attack also doesn't move the character, they can only move after an attack once their turn comes back round again. The last team standing is the victor.
-
+<B>End Result</B><BR>
+The Final product was a UI based system which allowed the user to create a solar system and tweak it to their own preferences.
