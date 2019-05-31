@@ -28,5 +28,4 @@ Theories which were used:
 The Final product was a UI based system which allowed the user to create a solar system and tweak it to their own preferences.
 
 [![Video](http://img.youtube.com/vi/V8TKnc5zj84/0.jpg)](http://www.youtube.com/watch?v=V8TKnc5zj84)
-
-https://youtu.be/V8TKnc5zj84
+<B>Video explaining how it works, though a tiny bit out of date</B>
