@@ -5,7 +5,7 @@ date:   2019-05-23 12:00:00
 author: Jamie Hogg
 categories:
 - project
-img: crusade_image.png
+img: grav_system_image.png
 thumb: thumb02.jpg
 carousel:
 - grav_system_01.png
@@ -17,7 +17,7 @@ In the third year Games Tech course, we were tasked with choosing a personal pro
   
 It was decided that the best ways of showing off Gravity within the engine would be to create a solar system simulation. This would show how gravity works and also test the possibilities when using real life theories inside the engine.
 
-Theories which were used:
+<B>Theories which were used:</B>
 - Newton's Law of Universal Gravity
 - Kepler's Law of Planetary Motion
 - Conic Sections
