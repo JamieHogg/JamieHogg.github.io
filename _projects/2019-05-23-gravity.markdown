@@ -12,16 +12,11 @@ tagged: Unity, Physics
 client: 
 website: 
 ---
-<B>Crusade</B><BR>
-The very last assignment for the Low-Level Programming module for my second year at University was also a group task. We were set the task of making a turn-based game which was meant to be played by 2-players over a network. It was either meant to be similar to 'Heroes of Might and Magic' from 1995, or 'UFO Enemy Unknown' from 1994. In the end we went for 'Heroes of Might and Magic'. The big picture for the game is that you'd be able to explore a world and scout warriors along the way to fight for you and then the player can use them to fight in battles against other players. However, we only got the fighting part of it done. The sprites were done by 
+<B>Personal Creative Project</B><BR>
+In the third year Games Tech course, we were tasked with choosing a personal project to choose a topic of interest outside or beyond the modules taught to us. After recently playing both 'Gravity Rush' & 'Gravity Rush 2', I was captivated by the abnormal use of Gravity. So the topic of interest to undertake was gravity within the game engine Uniity.
+  
 
-<B>Stats</B><BR>
-The player can firstly choose a team of 5 soldiers of which ever class they desire, the classes include:
-- <B>Warrior</B>
-- <B>Archer</B>
-- <B>Mage</B>
-- <B>Lancer</B>
-- <B>Assassin</B>
+
 
 However, each class is also weak against another class. Such as:
 - <B>Warrior</B> is strong against <B>Assassin</B> but weak against <B>Lancer</B>
