@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: UWEGAMES
-description: "Games development from an elder's persepective."
+title: Jamie Hogg
+description: "Games development Portfolio."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/" #important: start with /
 url: "https://JamieHogg.github.io/"
@@ -52,10 +52,10 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - University of the West of England,
-    - Frenchay Campus, Bristol, BS16 1QY,
+    - 57 Cloverfields,
+    - Gillingham, Dorset, SP8 4UR,
     - United Kingdom.
-email: Jamie2.Hogg@live.uwe.ac.uk
+email: jamiehogg57@googlemail.com
 
 
 
@@ -64,14 +64,14 @@ email: Jamie2.Hogg@live.uwe.ac.uk
 # Members information. Shown on About page.
 members:
   - name: Jamie Hogg
-    position: Pretty cool guy.
+    position: Graduate Game Developer.
     text: I am a keen and passionate games developer, whose love of programming extends to mentoring others to allow them to develop games for themselves.
     img: profile_2.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:Jamie2.Hogg@live.uwe.ac.uk
+        url: mailto:jamiehogg57@googlemail.com
       - title: twitter
         url: 
  
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Save the Cheerleader, Save the World."
+about: "Graduate Game Developer."
