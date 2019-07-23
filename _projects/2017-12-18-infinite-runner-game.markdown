@@ -16,7 +16,7 @@ client:
 website: 
 ---
 <B>Infinite Runner Game</B><BR>
-One of the assignments whilst I was doing my second year of University was to create an infinite runner style game. It was to be made in ASGE (stands for Awesome Sauce Game Engine) same as the 'Snake Game' made previously. We were given once again 4 weeks to make an infinite runner with freedom as to how it looks and how we wanted to do it as long as it had the core aspects which make an infinite runner.
+One of the assignments during my second year of University was to create an infinite runner style game. It was to be made in ASGE (Awesome Source Game Engine), same as the 'Snake Game' made previously. We were given once again 4 weeks to make an infinite runner. We had freedom as to how it woukd look and how we wanted to do it as long as it had the core aspects which make an infinite runner.
   
 <B>Gameplay</B><BR>
-The game has very simple gameplay. The player controls a cube, as the platforms move from the right of the screen to the left, the player must jump beween them. Aswell as this, other red objects will move towards the player from the right of the screen. If hit the player, it will cause a 'Game Over', same as if the player hits the border from any direction. The biggest replayability of the game is the leaderboard. It records the top scores giving any player a target to try and beat.
+The game has very simple gameplay. The player controls a cube, as the platforms move from the right of the screen to the left, the player must jump beween them. Aswell as this, other red objects will move towards the player from the right of the screen. If the player hits these, it will cause a 'Game Over', same as if the player hits the border from any direction. The biggest replayability of the game is the leaderboard. It records the top scores giving any player a target to try and beat.
