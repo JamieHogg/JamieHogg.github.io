@@ -52,8 +52,7 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Gillingham, Dorset,
-    - United Kingdom
+    - Gillingham, Dorset, United Kingdom
     -
     - "Email: jamiehogg57@googlemail.com"
 email: jamiehogg57@googlemail.com
