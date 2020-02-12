@@ -27,8 +27,5 @@ Some feature included:
 - Taking off & landing
 - A fuel system
 
-[![Video](http://img.youtube.com/vi/4QVY9biPG3A/0.jpg)](https://youtu.be/4QVY9biPG3A)
-<B>Video of gameplay showing the features added</B>
-
-
+<B>Gameplay</B><BR>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4QVY9biPG3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
