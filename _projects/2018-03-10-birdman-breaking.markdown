@@ -28,4 +28,4 @@ The scene from the movie that gave us the idea was where the main character, Rig
 The game is very similar to the old 'Monkey Island' games by 'LucasArts' in terms of them both being point and click. It doesn't use arrow keys, it's all done with the mouse clicks at the various positions on the game screen that move the player across the scene and allow them to interact with the game's objects.
   
 <B>Movie Trailer</B><BR>
-[![](http://img.youtube.com/vi/uJfLoE6hanc/0.jpg)](http://www.youtube.com/watch?v=uJfLoE6hanc "BIRDMAN - Official Worldwide Trailer")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uJfLoE6hanc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
