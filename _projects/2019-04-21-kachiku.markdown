@@ -18,7 +18,7 @@ It was set as our cohort task during our final year to work together and fix the
 The different elements to create and fix for the project were split up between the different teams within the cohort.
 Our team was tasked with implementing an unused plane vehicle, this meant programming the different behaviours and a new game mode for the plane. 
 
-<B>What was Achieved?</B>
+<B>What was Achieved?</B><BR>
 By the completetion of the project, we had succesfully added a stable plane to its own game mode. This including new custom maps made by our team using the new level editor to show off highlight the plane's abilities.
 The planes were given a few different feature which took consideration before adding to try and make them balanced.
 Some feature included:
@@ -28,4 +28,4 @@ Some feature included:
 - A fuel system
 
 [![Video](http://img.youtube.com/vi/4QVY9biPG3A/0.jpg)](https://youtu.be/4QVY9biPG3A)
-<B>Video explaining how it works, though slightly out of date</B>
+<B>Video of gameplay showing the features added</B>
