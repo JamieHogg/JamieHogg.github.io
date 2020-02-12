@@ -27,5 +27,5 @@ It was decided that the best ways of showing off Gravity within the engine would
 <B>End Result</B><BR>
 The final product was a UI based system which allowed the user to create a solar system whilst also allowing them to tweak it to their own preferences.
 
-[![Video](http://img.youtube.com/vi/V8TKnc5zj84/0.jpg)](http://www.youtube.com/watch?v=V8TKnc5zj84)
-<B>Video explaining how it works, though slightly out of date</B>
+<B>Showcase</B><BR>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V8TKnc5zj84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
