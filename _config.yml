@@ -52,8 +52,7 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - 57 Cloverfields,
-    - Gillingham, Dorset, SP8 4UR,
+    - Gillingham, Dorset,
     - United Kingdom.
 email: jamiehogg57@googlemail.com
 
