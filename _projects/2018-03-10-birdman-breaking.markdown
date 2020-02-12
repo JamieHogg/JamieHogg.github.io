@@ -16,8 +16,8 @@ carousel:
 - birdman_06.png
 - birdman_07.png
 tagged: ASGE, Game, Birdman, Point and Click
-client: Wonder Corp.
-website: http://blacktie.co
+client: 
+website: 
 ---
 <B>Birdman's Break-in</B><BR>
 For our 3rd assignment in Low-Level Programming at University in my second year, we were tasked with watching a movie then coming up with a game based around it. The movie we had to use was the Oscar winner 'Birdman' released back in 2014. It also had to be made in ASGE. We were given free reign with what the game would be, in the end we decided on doing an 'Escape the Room' styled game. Unlike the other two previous games we were tasked to make in ASGE, this time we were put into groups of 3-4. Mine was a group of 3 and we all worked on the game to make it easier to complete. I did 90% of the art assets used in the game (which can be seen above) and helped with a lot of the scene related code.
