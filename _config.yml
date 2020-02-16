@@ -38,16 +38,8 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
-  - title: facebook
-    url:
-  - title: twitter
-    url:
-  - title: instagram
-    url:
-  - title: tumblr
-    url:
+  - title: linkedin
+    url: https://www.linkedin.com/in/jamie-hogg-b667181a0/
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
