@@ -16,5 +16,9 @@ tagged: 3D, Maya
 client: 
 website: 
 ---
+<B>Overview</B><BR>
 The photos above show the renders of the planet orrery made as part of an assignmnet for my first year of University in 'Principles of 3D Environments'. The software used to make this was 'Autodesk Maya' which is a modeling software which can be used for animating aswell. 
 Each gear for the orrery is its own object and works as intended. For example rotating the handle rotates each gear appropriately which cause the planets to orbit around perfectly. Each planet rotates at different speeds aswell due to the way the cogs work.
+
+<B>Video Render</B><BR>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MZwhoFFWwq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
