@@ -57,7 +57,7 @@ members:
   - name: Jamie Hogg
     position: Graduate Game Developer.
     text: I am a keen and passionate games developer, whose love of programming extends to mentoring others to allow them to develop games for themselves.
-    img: profile_2.jpg
+    img: profile_01.png
     social:
       - title: envelope #use for email address
         url: mailto:jamiehogg57@googlemail.com
