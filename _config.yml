@@ -5,7 +5,7 @@ title: Jamie Hogg
 description: "Games development Portfolio."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/" #important: start with /
-url: "https://jamieHoggdev.co.uk/"
+url: "https://JamieHogg.github.io/"
 
 # Build settings
 highlighter: rouge
