@@ -8,7 +8,9 @@ categories:
 img: super_trash_heroes_image.png
 thumb: thumb02.jpg
 carousel:
-- 
+- super_trash_heroes_01.png
+- super_trash_heroes_02.png
+- super_trash_heroes_03.png
 tagged: Unity, Multiplayer, Group Project
 ---
 <B>Overview</B><BR>
