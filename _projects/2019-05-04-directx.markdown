@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Procedural Building Generation"
+title:  "Procedural Building Generation - DirectX11"
 date:   2019-05-04 12:00:00
 author: Jamie Hogg
 categories:
@@ -10,14 +10,20 @@ thumb: thumb02.jpg
 carousel:
 - directx_01.png
 - directx_02.png
-- directx_03.png
 tagged: Advanced Technologies, DirectX11
 ---
 <B>Overview</B><BR>
-'Terraform' was another Game Jam style game where we were only given 2 weeks to complete it. The task was to create a game based around a randomly generate theme. The theme our group was given was "A horror game where you taunt tunnels with terraforming". Aswell as sticking to the theme given, we we given other mandatory criteria such as it being made in 3D, having atleast some procedural generation and to have shown a strong focus on juice and fizz.
+This project was one out of three task for a final year module called 'Advanced Technologies' during the third year of my Games Technology degree. We were tasked with create a program capabale of creating building models using 'OpenGL' or 'DirectX11/12'. These created buildings designed in the program by users were to be able to be exported then imported into other programs for use.
 
 <B>What was Achieved?</B><BR>
-Given the theme and criteria we created an escape style maze in which the player must destroy obsticles to move forward. The player must roam the randomly generated map whilst going back to the starting position to pick up gas canisters which are used to destroy the blockades. This alongside a rising water level causes for an intense claustrophobic experience in which the player is searching for the exit but losing oxygen and getting lost. Flares were added to help players find their way back to spawn as all the rooms and tunnels look alike.
+The chosen programming interface for the task was DirectX11 AND C++. After a square was rendered, it was soon turned into a cube which was used as the basis of the buildings by creating 'Minecraft' style buildings out of them. 
+Using the 'AntTweakBar' GUI, the player was eventually able to:
+- Change the width down each side
+- Change the cube's textures
+- Add/remove windows
+- Add/remove the roof of the building
+  
+Each building created can be exported at the press of a button into a '.obj' file which then can be imported into another program such as 'Unity'.
 
 <B>Showreel</B><BR>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k7rdsLJaAtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
