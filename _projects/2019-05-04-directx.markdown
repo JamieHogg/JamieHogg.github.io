@@ -10,7 +10,7 @@ thumb: thumb02.jpg
 carousel:
 - directx_01.png
 - directx_02.png
-tagged: Advanced Technologies, DirectX11
+tagged: Advanced Technologies, DirectX11, C++
 ---
 <B>Overview</B><BR>
 This project was one out of three task for a final year module called 'Advanced Technologies' during the third year of my Games Technology degree. We were tasked with create a program capabale of creating building models using 'OpenGL' or 'DirectX11/12'. These created buildings designed in the program by users were to be able to be exported then imported into other programs for use.
