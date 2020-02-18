@@ -12,7 +12,7 @@ carousel:
 tagged: Unity, Multiplayer, Group Project
 ---
 <B>Overview</B><BR>
-This game started its life as a Game Jam creation by the company PlayWest, it is Bomberman inspired game which allows for up to 64 players. 
+This game started its life as a Game Jam creation by the company PlayWest, it is a 'Bomberman' inspired game which allows for up to 64 players. 
 As Game Jam games are created in only 48 hours, it was far from complete and ridden with tons of bugs.
 It was set as our cohort task during our final year to work together and fix the game along with improving it.
 The different elements to create and fix for the project were split up between the different teams within the cohort.
