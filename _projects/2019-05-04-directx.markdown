@@ -23,7 +23,7 @@ Using the 'AntTweakBar' GUI, the player was eventually able to:
 - Add/remove windows
 - Add/remove the roof of the building
   
-Each building created can be exported at the press of a button into a '.obj' file which then can be imported into another program such as 'Unity'.
+Each building created can be exported at the press of a button into a '.obj' file. This in turn can be imported into another program such as 'Unity'.
 
 <B>Showreel</B><BR>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k7rdsLJaAtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
