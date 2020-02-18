@@ -13,7 +13,7 @@ carousel:
 tagged: Advanced Technologies, DirectX11, C++
 ---
 <B>Overview</B><BR>
-This project was one out of three tasks for a final year module called 'Advanced Technologies' during the third year of my Games Technology degree. We were tasked with making a program capabale of creating building models using 'OpenGL' or 'DirectX11/12'. The buildings designed in the program by the user were also to be able to be exported then imported into other programs for use.
+This project was one out of three tasks for a final year module called 'Advanced Technologies' during the third year of my Games Technology degree. We were tasked with making a program capabale of creating building models using 'OpenGL' or 'DirectX11/12'. The buildings designed in the program by the user would also need to have the ability to be exported then imported into other programs for use.
 
 <B>What was Achieved?</B><BR>
 The chosen programming interface for the task was DirectX11 using C++. After a square was rendered, it was soon turned into a cube which was then used as the basis of the buildings by creating 'Minecraft' style structures out of them. 
