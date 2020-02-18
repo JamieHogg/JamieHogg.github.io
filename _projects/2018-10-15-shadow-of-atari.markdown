@@ -5,7 +5,7 @@ date:   2018-10-15 12:00:00
 author: Jamie Hogg
 categories:
 - project
-img: 
+img: shadow_of_atari_image.png
 thumb: thumb02.jpg
 carousel:
 - 
