@@ -19,7 +19,7 @@ The different elements to create and fix for the project were split up between t
 Our team was tasked with implementing an unused plane vehicle, this meant programming the different behaviours and a new game mode for the plane. 
 
 <B>What was Achieved?</B><BR>
-By the completetion of the project, we had succesfully added a stable plane to its own game mode. This including new custom maps made by our team using the new level editor to show off highlight the plane's abilities.
+By the completetion of the project, we had succesfully added a stable plane to its own game mode. This including new custom maps made by our team using the new level editor to show off and highlight the plane's abilities.
 The planes were given a few different feature which took consideration before adding to try and make them balanced.
 Some feature included:
 - Dropping bombs
