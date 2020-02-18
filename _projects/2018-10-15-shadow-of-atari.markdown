@@ -12,7 +12,7 @@ carousel:
 - shadow_of_atari_02.png
 - shadow_of_atari_03.png
 - shadow_of_atari_04.png
-tagged: Unity, Multiplayer, Group Project
+tagged: Unity, Single Player, Group Project
 ---
 <B>Overview</B><BR>
 'Shadow of Atari' was a game jam style project in which we were tasked in groups with recreating a modern game IP as if it had been released for the Atari 2600. The Atari 2600 being a 70s console, the project was meant challenge us by giving us limitations of what is actually possible. It was also to see what these games might have looked like when released in the past.
