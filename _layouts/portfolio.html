@@ -8,5 +8,9 @@ layout: default
 {% include portfolio.html %}
 
 <script>
-   $zoho.salesiq.tracking.off();
+$zoho.salesiq.ready=function()
+{
+$zoho.salesiq.floatbutton.visible("hide");
+$zoho.salesiq.tracking.off();
+}
 </script>
