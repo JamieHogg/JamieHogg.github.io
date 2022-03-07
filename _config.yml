@@ -45,8 +45,7 @@ social:
 address:
   - lines:
     - Gillingham, Dorset, United Kingdom
-    - "Email: jamiehogg57@googlemail.com"
-email: jamiehogg57@googlemail.com
+email: 
 
 
 
@@ -60,7 +59,7 @@ members:
     img: profile_01.png
     social:
       - title: envelope #use for email address
-        url: mailto:jamiehogg57@googlemail.com
+        url: mailto:
       - title: twitter
         url: 
  
